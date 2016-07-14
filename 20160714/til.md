@@ -47,6 +47,10 @@ int main(int argc, char * argv[])
 } 
 ```
 
+```javascript
+alert("Hello World!\n")l
+```
+
 
 ###### 줄바꿈 : 
     두 번 이상 줄바꿈 하면 강제로 적용
