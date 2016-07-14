@@ -48,7 +48,7 @@ int main(int argc, char * argv[])
 ```
 
 ```javascript
-alert("Hello World!\n")l
+alert("Hello World!\n");
 ```
 
 
@@ -57,7 +57,6 @@ alert("Hello World!\n")l
 ###### 취소선 : ~~텍스트~~ 
     ~~텍스트~~
 ###### 주석달기  : 주석 달 문장[^1]
-
 [^1] : 주석 문장
 
     주석을 달 문장 끝에 [^1], 주석 문장 처음에 [^1]: 입력
